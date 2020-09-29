@@ -1,9 +1,37 @@
 [
     {
-        "name": "",
-        "position": "",
-        "location": "",
-        "number": "",
-        "email": ""
+        "name": "James Harden",
+        "position": "Shooting Guard",
+        "location": "Houstion, TX",
+        "number": "123-456-7890",
+        "email": "person@gmail.com"
+    },
+    {
+        "name": "Russell Westbrook",
+        "position": "Point Guard",
+        "location": "Houstion, TX",
+        "number": "123-456-7890",
+        "email": "person@gmail.com"
+    },
+    {
+        "name": "Robert Covington",
+        "position": "Power Foward",
+        "location": "Houstion, TX",
+        "number": "123-456-7890",
+        "email": "person@gmail.com"
+    },
+    {
+        "name": "Daniel House Jr.",
+        "position": "Small Foward",
+        "location": "Houstion, TX",
+        "number": "123-456-7890",
+        "email": "person@gmail.com"
+    },
+    {
+        "name": "P.J. Tucker",
+        "position": "Center",
+        "location": "Houstion, TX",
+        "number": "123-456-7890",
+        "email": "person@gmail.com"
     }
 ]
